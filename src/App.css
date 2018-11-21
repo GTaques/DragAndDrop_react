@@ -30,3 +30,31 @@
     transform: rotate(360deg);
   }
 }
+
+.draggable-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.drop-target {
+  display: block;
+  height: 300px;
+  width: 90%;
+  position: relative;
+  margin-top: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+
+  border: 1px solid grey;
+}
+
+/* .item {
+  width: 200px;
+  height: 180px;
+  box-shadow: 1.5rem 1.5rem 1rem rgba(0, 0, 0, 0.2);
+  background-color: red;
+}
+
+.item-d {
+  
+} */

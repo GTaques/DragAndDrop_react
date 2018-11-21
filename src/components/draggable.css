@@ -1,0 +1,17 @@
+.draggable {
+  width: 200px;
+  height: 180px;
+  box-shadow: 1.5rem 1.5rem 1rem rgba(0, 0, 0, 0.2);
+}
+
+.ruby {
+  background-color: rgb(192, 0, 0);
+}
+
+.emerald {
+  background-color: rgb(57, 240, 112)
+}
+
+.diamond {
+  background-color: aqua;
+}

@@ -1,0 +1,28 @@
+.target {
+  display: block;
+  height: 300px;
+  width: 90%;
+  position: relative;
+  margin-top: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 1px solid grey;
+}
+
+.droped-item {
+  position: relative;
+  top: 40%;
+  transform: translateY(-50%);
+}
+
+.ruby {
+  background-color: rgb(192, 0, 0);
+}
+
+.emerald {
+  background-color: rgb(57, 240, 112)
+}
+
+.diamond {
+  background-color: aqua;
+}
